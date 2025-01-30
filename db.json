@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": "949e",
+      "title": "Сходить в спортзал",
+      "completed": true
+    },
+    {
+      "id": "cb07",
+      "title": "Спросить когда зарплата?",
+      "completed": true
+    },
+    {
+      "id": "086b",
+      "title": "Сходить в магазин",
+      "completed": false
+    },
+    {
+      "id": "37eb",
+      "title": "Позвонить подруге",
+      "completed": false
+    },
+    {
+      "id": "07e7",
+      "title": "Найти ключи",
+      "completed": false
+    },
+    {
+      "id": "9779",
+      "title": "Не забыть поесть в обед",
+      "completed": false
+    },
+    {
+      "id": "7962",
+      "title": "Зайти вечером к Любе",
+      "completed": false
+    },
+    {
+      "id": "36ae",
+      "title": "Купить молоко",
+      "completed": false
+    },
+    {
+      "id": "1459",
+      "title": "Погулять с собакой",
+      "completed": false
+    }
+  ]
+}
